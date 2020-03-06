@@ -1,0 +1,20 @@
+{
+  "name": "@skydragon/tpl",
+  "version": "2.0.0",
+  "description": "SkyDragon 组件库",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@git.tongbanjie.com:skydragon/sd-com-tpl.git"
+  },
+  "keywords": [
+    "vue",
+    "skydragon"
+  ],
+  "author": "zhishui",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
